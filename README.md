@@ -1,6 +1,4 @@
-# Hi, I'm wombito
-
-Software developer focused on **Backend**, **DevOps** and **Cloud**.
+## Hi, I'm a software developer focused on **Backend**, **DevOps** and **Cloud**.
 
 ## Tech Stack
 
